@@ -1,0 +1,49 @@
+/* === _Congig
+   =========================================== */
+:root {
+    --colorLine: #eee;
+    --heightLine: 1px;
+    --strokeWidth: .5;
+    --width: 100%;
+    --height: 100%;
+}
+
+body {
+    margin: 0;
+    height: 100vh;
+    width: 100vw;
+    background-color: #333;
+}
+
+.wrapper {
+    position: relative;
+    box-sizing: border-box;
+    width: var(--width);
+    height: var(--height);
+    border: var(--heightLine) solid var(--colorLine);
+    overflow: hidden;
+}
+
+/* === _Styles
+   =========================================== */
+
+.size-svg {
+    width: var(--width);
+    height: var(--height);
+}
+
+.size-line {
+    stroke: var(--colorLine);
+    stroke-width: var(--strokeWidth);
+}
+
+.d-1, .v-1, .h-1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: var(--width);
+    height: var(--height);
+}
+
+/* === _End
+   =========================================== */
