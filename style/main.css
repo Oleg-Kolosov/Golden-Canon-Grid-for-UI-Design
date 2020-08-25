@@ -2,8 +2,7 @@
    =========================================== */
 :root {
     --colorLine: #eee;
-    --heightLine: 1px;
-    --strokeWidth: .5;
+    --strokeWidth: .2;
     --width: 100%;
     --height: 100%;
 }
@@ -20,7 +19,7 @@ body {
     box-sizing: border-box;
     width: var(--width);
     height: var(--height);
-    border: var(--heightLine) solid var(--colorLine);
+    border: 1px solid var(--colorLine);
     overflow: hidden;
 }
 
