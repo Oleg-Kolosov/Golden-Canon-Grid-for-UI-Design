@@ -19,12 +19,13 @@ You're sections headers will be used to reference location of destination.
 
 ## Description
 
-Creating ReadMe's for your Github repository can be tedious.  I hope this template can save you time and effort as well as provide you with some consistency across your projects.
+#### [Author this grid system](https://www.youtube.com/watch?v=ktcQBceud9E)
 
 #### Technologies
 
-- Technology 1
-- Technology 2
+- Html 5
+- CSS 3
+- SVG
 
 [Back To The Top](#read-me-template)
 
@@ -74,13 +75,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Back To The Top](#read-me-template)
 
 ---
 
 ## Author Info
 
-- Twitter - [@jamesqquick](https://twitter.com/jamesqquick)
-- Website - [James Q Quick](https://jamesqquick.com)
-
-[Back To The Top](#read-me-template)
+- Front-end Developer Oleg Churilo - 
+- Telegram:  @meaw_meaw_meaw 
