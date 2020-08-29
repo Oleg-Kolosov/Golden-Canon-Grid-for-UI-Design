@@ -1,4 +1,4 @@
-# Golden Canon Grid for UI Design
+## Golden Canon Grid for UI Design
 
 ![Golden Canon Grid for UI Design](./img/Golden-Canon-Grid-for-UI-Design.png)
 
@@ -10,5 +10,6 @@
 
 ```don't forget put stars for me. Thanks for watching ```✌️
 
-[Watch task](https://oleg-kolosov.github.io/Golden-Canon-Grid-for-UI-Design/)
+#### [Watch project](https://oleg-kolosov.github.io/Golden-Canon-Grid-for-UI-Design/)
+
 ---
